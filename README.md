@@ -31,7 +31,7 @@ clone项目
 
 ****
 ## 效果
-[效果图](https://github.com/FrankCooper/cm_comments_spider/blob/master/word_cloud/536622304.png "Lemon_词云图")
+![效果图](word_cloud/536622304.png "Lemon_词云图")
 
 ****
 ## 提示
