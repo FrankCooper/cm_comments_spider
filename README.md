@@ -10,7 +10,9 @@
 ****
 ## 使用方法
 clone项目
+```
     git clone https://github.com/FrankCooper/cm_comments_spider.git
+```
 或者DownloadZip
 
 安装依赖模块，若运行报错请安装对应模块
