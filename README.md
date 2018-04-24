@@ -11,22 +11,22 @@
 ## 使用方法
 clone项目
 ```
-    git clone https://github.com/FrankCooper/cm_comments_spider.git
+git clone https://github.com/FrankCooper/cm_comments_spider.git
 ```
 或者DownloadZip
 
 安装依赖模块，若运行报错请安装对应模块
 ```
-    pip install jieba
-    pip install pycrypto
-    pip install wordcloud
+pip install jieba
+pip install pycrypto
+pip install wordcloud
 ```
 
 运行程序
 ```
-    python commentSpider.py
-    #输入歌曲id
-    #若评论量很大，词云图生成会比较慢，耐心等待即可
+python commentSpider.py
+#输入歌曲id
+#若评论量很大，词云图生成会比较慢，耐心等待即可
 ```
 
 ****
